@@ -1,5 +1,3 @@
-# TO BE MODIFIED TO MATCH ODBO GOVERNANCE NEEDS
-
 # Governance
 
 * [Overview](#overview)
@@ -25,9 +23,11 @@
 
 This is a meritocratic, consensus-based community project. Anyone with an interest in the project can join the community, contribute to the project design and participate in the decision making process. This document describes how that participation takes place and how to set about earning merit within the project community.
 
+An important distinction is that all participants in OpenAIM are participating as individuals. A stregth of OpenAIM is open participation and that affiliation to an employer or other organizations do not cloud the personal contributions. Unless specifically stated otherwise, anything posted on GitHub or the OpenAIM Discussion Portal is done as the individual speaking on their own behalf. OpenAIM participants carry many different roles and responsibilities, including as Users, Contributors, Committers, and as on the Project Management Committee. What matters here is the opinion and experience of the individual and their participation with the community. 
+
 ## <a name="code-of-conduct"></a>Code of conduct
 
-This community project aims to be an open and welcoming environment experience for everyone. All community members must follow this [code of conduct](https://github.com/opendatakit/governance/blob/master/CODE-OF-CONDUCT.md).
+This community project aims to be an open and welcoming environment experience for everyone. All community members must follow the [code of conduct](CODE-OF-CONDUCT.md).
 
 ## <a name="roles-and-responsibilities"></a>Roles and responsibilities
 
@@ -60,7 +60,7 @@ In addition to their actions as users, contributors may also find themselves doi
 *   fixing bugs
 *   adding features
 
-Contributors engage with the project through the issue trackers and mailing lists, or by writing or editing documentation. They submit changes to the project itself via patches, which will be considered for inclusion in the project by existing committers (see next section). The [ODK Forum Development Category](https://forum.opendatakit.org/c/development) is the most appropriate place to ask for help when making that first contribution.
+Contributors engage with the project through the issue trackers and dicussion portal, or by writing or editing documentation. They submit changes to the project itself via patches, which will be considered for inclusion in the project by existing committers (see next section). The [OpenAIM Discussion Portal](https://discuss.openaim.io) is the most appropriate place to ask for help when making that first contribution.
 
 As contributors gain experience and familiarity with the project, their profile within, and commitment to, the community will increase. At some stage, they may find themselves being nominated for committership.
 
@@ -72,9 +72,13 @@ This does not mean that a committer is free to do what they want. In fact, commi
 
 Seeking approval after making a contribution is known as a commit-then-review process. It is more efficient to allow trusted people to make direct contributions, as the majority of those contributions will be accepted by the project. The project employs various communication mechanisms to ensure that all contributions are reviewed by the community as a whole. By the time a contributor is invited to become a committer, they will have become familiar with the project’s various tools as a user and then as a contributor.
 
-Anyone can become a committer; there are no special requirements, other than to have shown a willingness and ability to participate in the project as a team player. Typically, a potential committer will need to show that they have an understanding of the project, its objectives and its strategy. They will also have provided valuable contributions to the project over a period of time.
+Anyone can become a committer, the requirements include:
+* having demonstrated a willingness and ability to participate in the project as a team player
+* experience using GitHub utilizing the GitHub Flow process
+* a deep understanding of the project, its objectives, and its strategy
+* having provided valuable contributions to the project through GitHub over a period of time
 
-New committers can be nominated by any existing committer. Once they have been nominated, there will be a vote by the project management committee (PMC; see below). Committer voting is one of the few activities that takes place on the project’s private management list. This is to allow PMC members to freely express their opinions about a nominee without causing embarrassment. Once the vote has been held, the aggregated voting results are published on the public mailing lists. The nominee is entitled to request an explanation of any ‘no’ votes against them, regardless of the outcome of the vote. This explanation will be provided by the PMC Chair (see below) and will be anonymous and constructive in nature.
+New committers can be nominated by any existing committer. Once they have been nominated, there will be a vote by the project management committee (PMC; see below). Committer voting is one of the few activities that takes place on the project’s private management list. This is to allow PMC members to freely express their opinions about a nominee without causing embarrassment. Once the vote has been held, the aggregated voting results are published on the public mailing lists. The nominee is entitled to request an explanation of any ‘no’ votes against them, regardless of the outcome of the vote. This explanation will be provided by the PMC Chair (see below) and will be anonymous and constructive in nature. 
 
 Nominees may decline their appointment as a committer. However, this is unusual, as the project does not expect any specific time or resource commitment from its community members. The intention behind the role of committer is to allow people to contribute to the project more easily, not to tie them in to the project in any formal way.
 
@@ -82,16 +86,16 @@ It is important to recognise that commitership is a privilege, not a right. That
 
 #### <a name="current-committers"></a>Current committers
 
-* [Yaw Anokwa](https://github.com/yanokwa), Nafundi
-* [Brent Atkinson](https://github.com/batkinson)
-* [Jeff Beorse](https://github.com/jbeorse), University of Washington
-* [Waylon Brunette](https://github.com/wbrunette), University of Washington
-* [Carl Hartung](https://github.com/chartung)
-* [Clarice Larson](https://github.com/clarlars), University of Washington
-* [Hélène Martin](https://github.com/lognaturel), Nafundi
-* [Nyoman Ribeka](https://github.com/nribeka)
-* [Sam Sudar](https://github.com/srsudar), University of Washington
-* [Mitch Sundt](https://github.com/mitchellsundt), University of Washington
+* [Jay Merlan, @jmerlan](https://github.com/jmerlan)
+* [Van Woods, @vdubya](https://github.com/vdubya)
+* [FirstName Lastname, @GitHubUserName](https://github.com/[username])
+* [FirstName Lastname, @GitHubUserName](https://github.com/[username])
+* [FirstName Lastname, @GitHubUserName](https://github.com/[username])
+* [FirstName Lastname, @GitHubUserName](https://github.com/[username])
+* [FirstName Lastname, @GitHubUserName](https://github.com/[username])
+* [FirstName Lastname, @GitHubUserName](https://github.com/[username])
+* [FirstName Lastname, @GitHubUserName](https://github.com/[username])
+* [FirstName Lastname, @GitHubUserName](https://github.com/[username])
 
 A committer who shows an above-average level of contribution to the project, particularly with respect to its strategic direction and long-term health, may be nominated to become a member of the PMC. This role is described below.
 
@@ -109,10 +113,11 @@ The PMC Chair has no additional authority over other members of the PMC: the rol
 
 #### <a name="current-project-management-committee"></a>Current project management committee
 
-* [Richard Anderson](http://www.cs.washington.edu/people/faculty/anderson)
-* [Yaw Anokwa](https://github.com/yanokwa) - Chair
-* [Waylon Brunette](https://github.com/wbrunette)
-* [Carl Hartung](https://github.com/chartung)
+* PMC Chair: * [Jay Merlan, @jmerlan](https://github.com/jmerlan)
+* [[Van Woods, @vdubya](https://github.com/vdubya)
+* [FirstName Lastname, @GitHubUserName](https://github.com/[username])
+* [FirstName Lastname, @GitHubUserName](https://github.com/[username])
+* [FirstName Lastname, @GitHubUserName](https://github.com/[username])
 
 ## <a name="support"></a>Support
 
@@ -124,11 +129,11 @@ Anyone can contribute to the project, regardless of their skills, as there are m
 
 Contributors can also help by providing feedback helping new users recommending the project to others, testing and reporting or fixing bugs, requesting new features, writing and updating software, creating artwork, writing or updating documentation, and translating.
 
-The [ODK Forum Development Category](https://forum.opendatakit.org/c/development) is the most appropriate place for a contributor to ask for help when making their first contribution.
+The [OpenAIM Discussion Portal](https://discuss.openaim.io) is the most appropriate place for a contributor to ask for help when making their first contribution.
 
 ## <a name="decision-making-process"></a>Decision making process
 
-Decisions about the future of the project are made through discussion with all members of the community, from the newest user to the most experienced PMC member. All non-sensitive project management discussion takes place on the project mailing lists. Occasionally, sensitive discussion occurs on a private list.
+Decisions about the future of the project are made through discussion with all members of the community, from the newest user to the most experienced PMC member. All non-sensitive project management discussion takes place on the [OpenAIM Discussion Portal](https://discuss.openaim.io). Occasionally, sensitive discussion occurs on a private list.
 
 In order to ensure that the project is not bogged down by endless discussion and continual voting, the project operates a policy of lazy consensus. This allows the majority of decisions to be made without resorting to a formal vote.
 
@@ -153,14 +158,14 @@ For lazy consensus to be effective, it is necessary to allow at least 72 hours b
 
 Not all decisions can be made using lazy consensus. Issues such as those affecting the strategic direction or legal standing of the project must gain explicit approval in the form of a vote. Every member of the community is encouraged to express their opinions in all discussion and all votes. However, only project committers and/or PMC members (as defined above) have binding votes for the purposes of decision making.
 
-If a formal vote on a proposal is called (signaled simply by sending a email with ‘[VOTE]’ in the subject line), all participants on the project contributors’ list may express an opinion and vote. They do this by sending an email in reply to the original ‘[VOTE]’ email, with the following vote and information:
+If a formal vote on a proposal is called (signaled by posting to the [OpenAIM Discussion Portal](https://discuss.openaim.io#narrow/stream/14-Vote), all participants on the project contributor list may express an opinion and vote. They do this by replying to the original portal posting, with the following vote and information:
 
 *   +1 ‘yes’, ‘agree’: also willing to help bring about the proposed action
 *   +0 ‘yes’, ‘agree’: not willing or able to help bring about the proposed action
 *   -0 ‘no’, ‘disagree’: but will not oppose the action’s going forward
 *   -1 ‘no’, ‘disagree’: opposes the action’s going forward and must propose an alternative action to address the issue (or a justification for not addressing the issue)
 
-To abstain from the vote, participants simply do not respond to the email. However, it can be more helpful to cast a ‘+0’ or ‘-0’ than to abstain, since this allows the team to gauge the general feeling of the community if the proposal should be controversial.
+To abstain from the vote, participants simply do not respond. However, it can be more helpful to cast a ‘+0’ or ‘-0’ than to abstain, since this allows the team to gauge the general feeling of the community if the proposal should be controversial.
 
 Every member of the community, from interested user to the most active developer, has a vote. The project encourages all members to express their opinions in all discussion and all votes.
 
@@ -170,7 +175,7 @@ It is therefore their responsibility to ensure that the opinions of all communit
 
 A ‘-1’ can also indicate a veto, depending on the type of vote and who is using it. Someone without a binding vote cannot veto a proposal, so in their case a -1 would simply indicate an objection.
 
-When a [VOTE] receives a ‘-1’, it is the responsibility of the community as a whole to address the objection. Such discussion will continue until the objection is either rescinded, overruled (in the case of a non-binding veto) or the proposal itself is altered in order to achieve consensus (possibly by withdrawing it altogether). In the rare circumstance that consensus cannot be achieved, the PMC will decide the forward course of action.
+When a vote receives a ‘-1’, it is the responsibility of the community as a whole to address the objection. Such discussion will continue until the objection is either rescinded, overruled (in the case of a non-binding veto) or the proposal itself is altered in order to achieve consensus (possibly by withdrawing it altogether). In the rare circumstance that consensus cannot be achieved, the PMC will decide the forward course of action.
 
 In summary:
 
@@ -291,5 +296,6 @@ All that said, please remember that this project is your project. The point of t
 
 
 ## <a name="attribution"></a>Attribution
+The OpenAIM Governance is a derivative work of [Open Data Kit](https://github.com/opendatakit) and by extension the [Meritocratic Governance Model](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel) by Ross Gardler and Gabriel Hanganu at University of Oxford. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. OpenAIM content other than the OpenAIM Governance is subject to their own individual license terms.
 
-This a derivative work of [Meritocratic Governance Model](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel) by Ross Gardler and Gabriel Hanganu at University of Oxford. This work is licensed under the [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
