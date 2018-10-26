@@ -780,9 +780,17 @@ border: 2px solid #fff;
 }
 .copyright, .credits{
 	color:#cccccc;
-	font-size:14px;
+	font-size:12px;
 	display:block;
 	text-align:center;
+	margin-top: 40px;
+}
+.credits {
+	margin-top: 0px;
+}
+.copyright.knight, .credits.knight, .knight a {
+	font-size: 9px;
+	color: #555 !important;
 }
 .copyright a, .credits a{
 	color:#7cc576;
