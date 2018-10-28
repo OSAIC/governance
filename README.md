@@ -1,4 +1,5 @@
 # Open Asset Information Management (OpenAIM) Community Governance
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FOpenAIM%2FCommunity-Guidelines.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FOpenAIM%2FCommunity-Guidelines?ref=badge_shield)
 
 This repository contains governance documents for the Open Asset Information Management Community (OpenAIM). 
  
