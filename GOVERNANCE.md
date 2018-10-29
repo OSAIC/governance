@@ -113,8 +113,8 @@ The PMC Chair has no additional authority over other members of the PMC: the rol
 
 #### <a name="current-project-management-committee"></a>Current project management committee
 
-* PMC Chair: * [Jay Merlan, @jmerlan](https://github.com/jmerlan)
-* [[Van Woods, @vdubya](https://github.com/vdubya)
+* PMC Chair: [Jay Merlan, @jmerlan](https://github.com/jmerlan)
+* [Van Woods, @vdubya](https://github.com/vdubya)
 * [FirstName Lastname, @GitHubUserName](https://github.com/[username])
 * [FirstName Lastname, @GitHubUserName](https://github.com/[username])
 * [FirstName Lastname, @GitHubUserName](https://github.com/[username])
